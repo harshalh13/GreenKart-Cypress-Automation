@@ -1,5 +1,5 @@
 let gamenum= 2;
-let usernum = prompt("guess the correct number??")
+let usernum = prompt("guessss the correct number??")
 do{
  usernum = prompt("you have guessed the wrong number, enter a number again");
 }while(usernum != gamenum);
