@@ -27,6 +27,4 @@ cy.contains('Proceed').click();
 
 
 
-
-
 } )
